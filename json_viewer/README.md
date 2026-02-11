@@ -2,7 +2,7 @@
 
 A JSON viewer built with AutoHotkey v2 and WebView2. This tool provides an interface for exploring, searching, and analyzing JSON data.
 
-<img src="images/screenshots/main.png" alt="JSON Viewer Screenshot" width="65%">
+<img src="images/screenshots/main.png" alt="JSON Viewer Screenshot" width="90%">
 
 ## Features
 
@@ -259,5 +259,6 @@ The viewer uses CSS custom properties for theming. Key colors can be modified in
 - Inspired by [JSON Hero](https://jsonhero.io/)
 
 ## License
+
 
 MIT License - Feel free to use, modify, and distribute.
